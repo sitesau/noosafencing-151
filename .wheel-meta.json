@@ -1,0 +1,22 @@
+{
+  "wheel_id": 540,
+  "structure": "umbrella",
+  "slug": "noosafencing-151",
+  "project": "fencing-contractors-noosa-budget-tips-82a5fbfb62ef192e3d2151e13",
+  "parent_t1_ref": "noosafencing-006",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa budget tips",
+  "intended_url": "https://sites-e470-2.web.app/fencing-contractors-noosa-budget-tips-82a5fbfb62ef192e3d2151e13/",
+  "tier": "T2",
+  "writeback_nonce": "022edf0a724756da",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/fencing-contractors-noosa/",
+      "anchor": "this fencing contractors noosa guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
